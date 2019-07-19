@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Practice02</name>
+    </assembly>
+    <members>
+        <member name="M:Practice02.Controllers.ValuesController.Get(System.String)">
+            <summary>
+            Selects a specific Acoount.
+            </summary>
+            <param name="account"></param> 
+        </member>
+        <member name="M:Practice02.Controllers.ValuesController.Delete(System.String)">
+            <summary>
+            Deletes a specific Acoount.
+            </summary>
+            <param name="account"></param> 
+        </member>
+    </members>
+</doc>
